@@ -1,0 +1,18 @@
+{
+  "name": "co-execFile",
+  "version": "1.0.0",
+  "description": "execFile() wrapper for 'co'",
+  "repository": "pierreinglebert/co-execFile",
+  "keywords": [
+    "async",
+    "flow",
+    "generator",
+    "execFile"
+  ],
+  "devDependencies": {
+    "co": "^3.1.0",
+    "mocha": "^2.0.1",
+    "should": "^4.1.0"
+  },
+  "license": "MIT"
+}
